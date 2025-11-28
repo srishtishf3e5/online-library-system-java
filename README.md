@@ -21,10 +21,6 @@ The project is created for learning and demonstrating core **Object-Oriented Pro
 
 ---
 
-## 📂 Folder Structure
-
-
----
 
 ## 🛠 Technologies Used
 
@@ -46,10 +42,6 @@ The project is created for learning and demonstrating core **Object-Oriented Pro
 4. Run the program:
 
 
----
-
-## 🧪 Example Menu Output
-
 
 ---
 
@@ -66,8 +58,8 @@ By creating this project, you will learn:
 
 ## 👨‍💻 Author
 
-- **Name:** *Your Name Here*  
-- **GitHub:** https://github.com/YOUR-USERNAME
+- **Name:** *Srishti Sharma*  
+- **GitHub:** https://github.com/srishtishf3e5
 
 ---
 
