@@ -20,7 +20,19 @@ The project is created for learning and demonstrating core **Object-Oriented Pro
 ✔ View books borrowed by a specific user  
 
 ---
+## 📂 Folder Structure
+online-library-system-java/
+│
+├─ src/
+│ ├─ Book.java
+│ ├─ User.java
+│ ├─ Library.java
+│ └─ Main.java
+│
+├─ statement.md
+└─ README.md
 
+---
 
 ## 🛠 Technologies Used
 
@@ -41,6 +53,31 @@ The project is created for learning and demonstrating core **Object-Oriented Pro
 
 4. Run the program:
 
+---
+
+## 🧪 Example Menu Output
+Online Library System
+
+1.Add Book
+
+2.Register User
+
+3.Search Books by Title
+
+4.Search Books by Author
+
+5.Search Books by ISBN
+
+6.Check Out Book
+
+7.Return Book
+
+8.List All Available Books
+
+9.List Books Borrowed by User
+
+10.Exit
+Enter your choice:
 
 
 ---
